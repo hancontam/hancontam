@@ -1,4 +1,4 @@
-## Hi there 👋 I am Apple Application Developer 🦸 Wellcome to my Git hehe
+## Hi there 👋 I am Apple Application Developer 🦸
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Git+HEHE;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
