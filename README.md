@@ -1,3 +1,5 @@
+<img src="./src/header.png" alt="Header Image">
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -34,9 +36,10 @@
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+  </div>
   <p>
 
+<img src="./src/footer.png" alt="Footer Image">
 
 <!--
 **hancontam/hancontam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
