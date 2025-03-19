@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Apple Application Developer 🦸 Wellcome to my Git hehe
 
 <!--
 **hancontam/hancontam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
