@@ -3,7 +3,8 @@
 </p>
 <hr>
 
-## Hi there 👋 I am Apple Application Developer 🦸
+## Hi there 👋 I'm Han Nguyen
+<h3 align="center">Apple Application Developer | Software Engineer | Data Analysis</h3>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Git+HEHE;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
