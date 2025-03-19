@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-## Hi there 👋 I'm Han Nguyen 🦸
+## Hi 👋 I'm Han Nguyen 🦸
 <h3 align="center">Apple Application Developer | Software Engineer | Website Designer</h3>
 
 <p>
