@@ -2,14 +2,16 @@
 
 <p align="center">
   <img src="./src/c3b5988b-2b16-4889-8eeb-5a0044b6b713.jpg" height="200"/>
+  <img src="./src/8235fb7a-5463-41fe-af32-129327bff338.jpg" height="200"/>
+  <img src="./src/8235fb7a-5463-41fe-af32-129327bff338.jpg" height="200"/>
 </p>
 <hr>
 
-## Hi 👋 I'm Han Nguyen 🦸
-<h3 align="center">Apple Application Developer | Software Engineer | Website Designer</h3>
+## Hi 👋 I'm Han Nguyen
+<h3 align="center">Software Engineer | Website Designer</h3>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Git+HEHE;I'm+a+Apple+Application+Developer;I'm+also+studying+Data+Analysis" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Git+HEHE;I'm+a+Software+Technical+Student;I'm+also+studying+Data+Analysis" /></a>
 </p>
 <p align ="center">
   <a  href="https://hancontam.github.io/" target="_blank">
