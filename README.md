@@ -1,7 +1,7 @@
 <img src="./src/header.png" alt="Header Image">
 
 <p align="center">
-  <img src="./src/c3b5988b-2b16-4889-8eeb-5a0044b6b713.jpg height="200"/>
+  <img src="./src/c3b5988b-2b16-4889-8eeb-5a0044b6b713.jpg" height="200"/>
 </p>
 <hr>
 
