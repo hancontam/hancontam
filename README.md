@@ -44,6 +44,9 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/> 
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
+  </a>
 <p>
 
 <img src="./src/footer.png" alt="Footer Image">
