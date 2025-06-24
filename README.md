@@ -8,7 +8,7 @@
 </p>
 <hr>
 
-## Hi 👋 I'm Han Nguyen
+## Hi 👋🏿 I'm Han Nguyen
 <h3 align="center">Software Engineer | Website Designer</h3>
 
 <p>
