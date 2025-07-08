@@ -9,10 +9,9 @@
 <hr>
 
 ## Hi 👋🏿 I'm Han Nguyen
-<h3 align="center">Software Engineer | Website Designer</h3>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Git+HEHE;I'm+a+Software+Technical+Student;I'm+also+studying+Chinese+language" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+HEHE;I'm+a+Software+Technical+Student;I'm+also+studying+Chinese+language" /></a>
 </p>
 <p align ="center">
   <a  href="https://hancontam.github.io/" target="_blank">
