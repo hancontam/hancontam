@@ -11,7 +11,7 @@
 ## Hi /•᷅‎‎•᷄\੭ I'm Han Nguyen
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=blue&size=20&lines=Welcome+to+my+GitHub+HEHE;I'm+a+Software+Technical+Student;I'm+also+studying+Chinese+language" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=blue&size=20&lines=Welcome+to+my+Github;I'm+a+Software+Technical+Student;I'm+also+studying+Chinese+language" /></a>
 </p>
 
 <div align="center">
